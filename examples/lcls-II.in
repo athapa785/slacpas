@@ -34,8 +34,8 @@ beam=beginning
 &end
 
 &track
-#output_step = 50
-#field_dump_at_undexit=True
+output_step = 100
+field_dump_at_undexit=True
 &end
 
 &write
