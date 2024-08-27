@@ -33,10 +33,10 @@ ey=1.24e-06
 beam=beginning
 &end
 
-&track
-output_step = 100
-field_dump_at_undexit=True
-&end
+#&track
+#output_step = 100
+#field_dump_at_undexit=True
+#&end
 
 &write
 beam=end
